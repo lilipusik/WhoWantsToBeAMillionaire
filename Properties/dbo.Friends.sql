@@ -1,0 +1,4 @@
+﻿CREATE TABLE [dbo].[Friends]
+(
+	[Name] VARCHAR(MAX) NOT NULL PRIMARY KEY
+)
